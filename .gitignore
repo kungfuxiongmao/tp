@@ -3,6 +3,9 @@
 /build/
 src/main/resources/docs/
 
+# General build files
+/bin/
+
 # IDEA files
 /.idea/
 /out/
@@ -26,6 +29,7 @@ AGENTS.md
 CLAUDE.md
 /.claude/
 /.codex/
+/skills/
 
 # Temp files
 _temp/
